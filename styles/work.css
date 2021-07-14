@@ -1,0 +1,48 @@
+.work {
+  height: auto;
+  max-width: 90%;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.work__talk {
+  padding: 2em 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.work__box {
+  padding: 1em;
+  flex-basis: 50%;
+}
+
+.reverse {
+  flex-direction: row-reverse;
+}
+
+.cat {
+  width: 100%;
+  max-width: 100%;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+.strt {
+  text-align: start;
+}
+
+img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+@media (max-width: 760px) {
+  .work__talk {
+    flex-direction: column-reverse;
+  }
+
+  .work {
+    max-width: 100%;
+  }
+}
