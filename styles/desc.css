@@ -51,6 +51,10 @@
   transition: all 0.25s ease-in;
 }
 
+.rm {
+  padding: none;
+}
+
 .desc__box:hover {
   transform: translate(1.5);
   background-color: brown;
@@ -80,6 +84,10 @@ p {
 @media (max-width: 760px) {
   .desc__boxes {
     flex-direction: column;
+  }
+
+  .rm {
+    padding: 1em 0;
   }
 
   /* .desc__box {
