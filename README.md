@@ -3,6 +3,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## DEMO 
 Open [https://cuddlez.netlify.app](https://cuddlez.netlify.app) with your browser to see the result.
 
+## Screenshot demo
+![cuddlez netlify app_](https://user-images.githubusercontent.com/66668114/125785056-ca0bb0b3-b7c5-4bde-b2ca-2e828f242f34.png)
+
+
 ## Getting Started
 
 First, run the development server:
