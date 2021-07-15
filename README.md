@@ -6,6 +6,9 @@ Open [https://cuddlez.netlify.app](https://cuddlez.netlify.app) with your browse
 ## Screenshot demo
 ![cuddlez netlify app_](https://user-images.githubusercontent.com/66668114/125785056-ca0bb0b3-b7c5-4bde-b2ca-2e828f242f34.png)
 
+##Full Demo Image
+![cuddlez netlify app_ (1)](https://user-images.githubusercontent.com/66668114/125785196-4e974f27-60f3-4bc2-b652-3c4e78d451f6.png)
+
 
 ## Getting Started
 
