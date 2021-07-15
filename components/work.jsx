@@ -2,6 +2,8 @@ import React from 'react'
 import Image from "next/image"
 
 import Picrure from "../public/img.jpg"
+import Picrure2 from "../public/ing.jpg"
+import Picrure3 from "../public/iig.png"
 
 const Work = () => {
     return (
@@ -15,7 +17,8 @@ const Work = () => {
             <div className="work__desc">
                 <div className="work__talk">
                     <div className="work__box">
-                        <h3>Talk to Me</h3>
+                        <h3>Whole-person care</h3>
+                        <br />
                         <p className="hero__desc cat">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni labore similique nostrum qui vel animi odio modi corporis expedita doloribus nam, tenetur enim! Impedit obcaecati corrupti, odit expedita ex voluptates!</p>
                         <button className="strt">See More ...</button>
                     </div>
@@ -26,23 +29,25 @@ const Work = () => {
 
                 <div className="work__talk reverse">
                     <div className="work__box">
-                        <h3>Talk to Me</h3>
+                        <h3>Exceptional outcomes</h3>
+                        <br />
                         <p className="hero__desc cat">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni labore similique nostrum qui vel animi odio modi corporis expedita doloribus nam, tenetur enim! Impedit obcaecati corrupti, odit expedita ex voluptates!</p>
                         <button className="strt">See More ...</button>
                     </div>
                     <div className="work__box">
-                        <Image src={Picrure} alt="body" />
+                        <Image src={Picrure3} alt="body" />
                     </div>
                 </div>
 
                 <div className="work__talk ">
                     <div className="work__box">
-                        <h3>Talk to Me</h3>
+                        <h3>Ongoing care that changes lives</h3>
+                        <br />
                         <p className="hero__desc cat">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni labore similique nostrum qui vel animi odio modi corporis expedita doloribus nam, tenetur enim! Impedit obcaecati corrupti, odit expedita ex voluptates!</p>
                         <button className="strt">See More ...</button>
                     </div>
                     <div className="work__box">
-                        <Image src={Picrure} alt="body" />
+                        <Image src={Picrure2} alt="body" />
                     </div>
                 </div>
 

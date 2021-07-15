@@ -36,8 +36,9 @@ const Navbar = () => {
                 <div className="navbar__part">
                     <ul onClick={mobileIconHandler} className={isClicked ? "ul__list open__left" : "ul__list "}>
                         <li className="li__items" onClick={mobileIconHandler}>Home</li>
-                        <li className="li__items" onClick={mobileIconHandler}>Spec</li>
-                        <li className="li__items" onClick={mobileIconHandler}>Testnomy</li>
+                        <li className="li__items" onClick={mobileIconHandler}>Employers</li>
+                        <li className="li__items" onClick={mobileIconHandler}>Health Plans</li>
+                        <li className="li__items" onClick={mobileIconHandler}>Resources</li>
                         <li className="li__items" onClick={mobileIconHandler}>Contact</li>
                     </ul>
                     <button className="navbar__button ">Join now</button>
